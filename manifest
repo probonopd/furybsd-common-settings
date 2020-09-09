@@ -1,6 +1,6 @@
 cat << EOF
 name:          furybsd-common-settings
-version:       $(git rev-parse --short HEAD)
+version:       0
 origin:        local
 comment:       Package that installs FuryBSD configuration
 arch:          freebsd:12:x86:64
